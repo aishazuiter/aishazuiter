@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently learning python and how to use GitHub
+I'm currently working on updating, organizing, and uploading my old MATLAB and PYTHON scripts to GitHub. And a code portfolio
+
+Ask me about non-linear regression and global-fit solutions to multi-step reversible enzyme kinetics (steady state and/or transient state) 
+
+Fun facts: I am going to package my signal processing code into .VST apps for some scientific musicality. Musical sceintifity. Yes.
 <!--
 **aishazuiter/aishazuiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
